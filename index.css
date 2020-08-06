@@ -1,0 +1,70 @@
+#banner_image{
+	padding-bottom: 0px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url("img/intro-bg_1.jpg") ;
+	background-size: cover;
+}
+#banner_content{
+	position: center;
+	padding-top: 12%;
+	padding-bottom: 6%;
+	overflow:hidden;
+	margin-top:30%;
+	margin-left:20%;
+	margin-bottom: 12%;
+	background-color: rgba(0, 0, 0, 0.7);
+	max-width: 660px;
+}
+#foot{
+	padding: 5px 0;
+	background-color: #101010;
+	color:#9d9d9d;
+	bottom: 0;
+	width: 100%;
+}
+#panel_style{
+	margin-top:15px;
+}
+#pad{
+	padding-top:100px;
+}
+#pad_bot{
+	padding-top:205px;
+}
+.pad_{
+	padding-top:50px;
+}
+#pad_up{
+	padding-top:168px;
+}
+.pad_p{
+	padding-top:100px;
+}
+.padd{
+	padding-top:150px;
+}
+#pad_jumbo{
+	padding-top:100px;
+}
+.pas_pro{
+	padding-top:100px;
+}
+#pad_pro{
+	padding-top:20px;
+}
+#pad_table{
+	padding-top:100px;
+}
+#pad_cart{
+	padding-top:485px;
+}
+.pad_pass{
+	padding-top:100px;
+}
+#pad_foo{
+	padding-top:393px;
+}
+.pad_succ{
+	padding-top:100px;
+}
